@@ -1,7 +1,7 @@
 languageCode = "ro"
 title = "Cu mic, cu mare ... prin Univers"
-baseurl = "http://prinunivers.ro/"
-# baseurl = ""
+# baseurl = "http://prinunivers.ro/"
+baseurl = ""
 
 theme = "air"
 
