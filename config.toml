@@ -1,5 +1,15 @@
-languageCode = "en-us"
-title = "My New Hugo Site"
-baseurl = "http://example.org/"
+languageCode = "ro"
+title = "Cu mic, cu mare ... prin Univers"
+baseurl = "http://prinunivers.ro/"
+# baseurl = ""
 
 theme = "air"
+
+
+[params]
+  description = "- târg de educație și știință -"
+  locatie = "Măgurele, 23 - 25 noiembrie"
+  # cover = "images/evolutie_logo_shrinked.png"
+  logo = "images/evolutie_logo_shrinked.png"	
+  # logo = "images/user.png"
+  hideHUGOSupport = true	
